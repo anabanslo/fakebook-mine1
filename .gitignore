@@ -1,0 +1,9 @@
+.idea
+git config --global user.name "Ana B"
+
+git config --global user.email anabananaslo@hotmail.com
+
+git init
+git status
+git add .
+git commit -am "initial commit"
